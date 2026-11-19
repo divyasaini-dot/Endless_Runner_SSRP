@@ -1,0 +1,1 @@
+A gesture-controlled Unity VR game that uses a Force Sensitive Resistor (FSR) sensor to detect finger-pinching actions and control character jumps in real time. The project integrates Arduino-based signal acquisition, digital signal processing, noise filtering, and Unity game development to create an interactive gaming experience.
